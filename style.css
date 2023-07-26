@@ -48,10 +48,11 @@ table {
 }
 /*social link*/
 .social{
-	height: 32px;
 	background: #F6F6F8;
 	display: flex;
 	justify-content: flex-end;
+	padding-top: 10px;
+	padding-bottom: 12px;
 }
 .social ul{
 	display: flex;
